@@ -19,7 +19,7 @@ The heating is set by the control at the top of the stairs. You can set the day/
 <p><b>3. How can I clear the shower plug hole.</b><br>
 The shower drain can be taken out to clean properly. <br>
 <a href="https://113theavenues.github.io/signal-2021-08-05-203409.mov">https://113theavenues.github.io/signal-2021-08-05-203409.mov</a><br>
-Please be careful not to allow build-up of hair/debris in the drainage system or a plumber have to be called in at the tenants expense</p>
+Please be careful not to allow build-up of hair/debris in the drainage system or a plumber have to be called in at the tenant's expense</p>
 
 <p><b>4. Please don't use blue-tack on walls.</b><br>
 As it marks the surfaces.</p>
