@@ -37,4 +37,4 @@ Find more information here:
 <a href="https://maps.norwich.gov.uk/mynorwich/index.html">Link to Council website</a></p>
 
 <p><b>7. The end of the tenancy.</b><br>
-All rubbish (and anything you have brought in) should be removed. All bins should be left clean and empty when the house is vacated. Plan ahead so that council bins are empty when the house is vacated.</p>
+All rubbish (and anything you have brought in) should be removed. All bins should be left clean and empty. Plan ahead so that council bins are empty when the house is vacated.</p>
