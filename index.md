@@ -4,7 +4,7 @@ Below we have set out some general Q&As that we hope will help you along the way
 
 <h2>FAQ</h2>
 
-<p><b>1. How can I set the heating</b><br>
+<p><b>1. How can I set the heating?</b><br>
 The heating is set by the control at the top of the stairs. You can set the day/night temp as required - instructions can be found inside flap of controller.</p>
 
 <p>The full instructions for the boiler are here:<br>
@@ -14,16 +14,16 @@ The heating is set by the control at the top of the stairs. You can set the day/
 The shower drain can be taken out to clean properly. <br>
 <a href="https://113theavenues.github.io/signal-2021-08-05-203409.mov">https://113theavenues.github.io/signal-2021-08-05-203409.mov</a></p>
 
-<p><b>3. Please don't use blue-tack on walls</b></p>
+<p><b>3. Please don't use blue-tack on walls.</b></p>
 
 <p><b>4. Please do not hang clothes washing inside your room.</b><br>
 You can hang your washing outside or in the upstairs toilet with the window open.</p>
 
-<p><b>5. When are the Bins collected? </b><br>
+<p><b>5. When are the Bins collected?</b><br>
 Your waste and recycling are collected on alternate Fridays.
 Wheelie bins or bags are collected from the edge of your property.
 - Make sure your bin is out by 6am on your collection day, but no earlier than 6pm the evening before
-- After your collection, please return your bin to the inside of your property boundary by 9am the next morning<br>
+- After your collection, please return your bin to the inside of your property boundary by 9am the next morning.<br>
 <a href="https://113theavenues.github.io/calendar.pdf">Bin-day calendar</a></p><br>
 Find more information here:
-<a href="https://maps.norwich.gov.uk/mynorwich/index.html">Council website</a></p>
+<a href="https://maps.norwich.gov.uk/mynorwich/index.html">Council website</a>
