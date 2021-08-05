@@ -4,7 +4,7 @@ Below we have set out some general Q&As that we hope will help you along the way
 
 <h2>FAQ</h2>
 
-<b>1. How can I set the heating</b></br>
+<b>1. How can I set the heating</b><br/>
 The heating is set by the control at the top of the stairs. You can set the day/night temp as required - instructions can be found inside flap of controller.
 
 The full instructions for the boiler are here:</br>
