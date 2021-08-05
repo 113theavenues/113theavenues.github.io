@@ -30,11 +30,11 @@ You can hang your washing outside or in the upstairs toilet with the window open
 <p><b>6. When are the Bins collected?</b><br>
 Your waste and recycling are collected on alternate Fridays.
 Wheelie bins or bags are collected from the edge of your property.<br>
-- Make sure your bin is out by 6am on your collection day, but no earlier than 6pm the evening before<br>
+- Make sure your bin is out by 6am on your collection day, but no earlier than 6pm the evening before,<br>
 - After your collection, please return your bin to the inside of your property boundary by 9am the next morning.<br>
 <a href="https://113theavenues.github.io/calendar.pdf">Bin-day calendar.</a><br>
 Find more information here:
 <a href="https://maps.norwich.gov.uk/mynorwich/index.html">Link to Council website</a></p>
 
 <p><b>7. The end of the tenancy.</b><br>
-All rubbish (and anything you have brought in) should be removed. All bins should be left clean and empty. <br>Plan ahead so that council bins are empty when the house is vacated.</p>
+All rubbish (and anything you have brought in) should be removed. All bins should be left clean and empty.<br>Plan ahead so that council bins are empty when the house is vacated.</p>
