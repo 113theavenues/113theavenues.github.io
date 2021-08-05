@@ -24,6 +24,6 @@ Your waste and recycling are collected on alternate Fridays.
 Wheelie bins or bags are collected from the edge of your property.
 - Make sure your bin is out by 6am on your collection day, but no earlier than 6pm the evening before
 - After your collection, please return your bin to the inside of your property boundary by 9am the next morning.<br>
-<a href="https://113theavenues.github.io/calendar.pdf">Bin-day calendar</a></p><br>
+<a href="https://113theavenues.github.io/calendar.pdf">Bin-day calendar.</a></p><br>
 Find more information here:
-<a href="https://maps.norwich.gov.uk/mynorwich/index.html">Council website</a>
+<a href="https://maps.norwich.gov.uk/mynorwich/index.html">Link to Council website</a>
