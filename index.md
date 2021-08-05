@@ -14,9 +14,9 @@ https://113theavenues.github.io/Boiler-instructions.pdf</p>
 The shower drain can be taken out to clean properly. </br>
 https://113theavenues.github.io/signal-2021-08-05-203409.mov</p>
 
-<p><b>3. Please don't use blue-tack on walls </b><br></p>
+<p><b>3. Please don't use blue-tack on walls</b></p>
 
-<p><b>4. Please do not hang clothes washing inside your room. </b><br>
+<p><b>4. Please do not hang clothes washing inside your room.</b><br>
 You can hang your washing outside or in the upstairs toilet with the window open.</p>
 
 <p><b>5. When are the Bins collected? </b><br>
