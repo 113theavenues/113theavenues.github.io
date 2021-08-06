@@ -2,7 +2,7 @@
 <p>We hope you enjoy living here while you study.
 Below we have set out some general Q&As that we hope will help you along the way. If you have any problems you can contact the agent: 01603 673 803.</p>
 
-<h3>Please note that this is a non-smoking house</h3>
+<h3>Please note that this is a non&#8209;smoking house</h3>
 <p>Please read your contract and inventory carefully.</p>
 
 <h2>FAQ</h2>
@@ -14,14 +14,14 @@ The heating is set by the control at the top of the stairs. You can set the day/
 <a href="https://113theavenues.github.io/Boiler-instructions.pdf">https://113theavenues.github.io/Boiler-instructions.pdf</a></p>
 
 <p><b>2. Avoid build-up of limescale.</b><br>
-  This is a hard water area. Build-up of limescale in the bathroom will occur if the shower, shower door, wall tiles, taps and toilets are not regularly cleaned.<p>
+  This is a hard water area. Build&#8209;up of limescale in the bathroom will occur if the shower, shower door, wall tiles, taps and toilets are not regularly cleaned.<p>
 
 <p><b>3. How can I clear the shower drain hole.</b><br>
 The shower drain can be taken apart to clean properly. <br>
 <a href="https://113theavenues.github.io/signal-2021-08-05-203409.mov">https://113theavenues.github.io/signal-2021-08-05-203409.mov</a><br>
-Please be careful not to allow build-up of hair/debris in the drainage system or a plumber have to be called in at the tenant's expense.</p>
+Please be careful not to allow build&#8209;up of hair/debris in the drainage system or a plumber have to be called in at the tenant's expense.</p>
 
-<p><b>4. Please don't use blu-tack on walls.</b><br>
+<p><b>4. Please don't use blu&#8209;tack on walls.</b><br>
 It marks the surfaces.</p>
 
 <p><b>5. Please do not hang laundry to dry inside your room.</b><br>
