@@ -36,7 +36,10 @@ Wheelie bins or bags are collected from the grass area next to the road, (See ho
 Find more information here:
 <a href="https://maps.norwich.gov.uk/mynorwich/index.html">Link to Council website</a></p>
 
-<p><b>7. The end of the tenancy.</b><br>
+<p><b>7. Keep communal areas free from obstruction.</b><br>
+These areas must be kept free from obstruction at all times so that in the event of a Fire, the common stairwells, hallways etc are free from any obstruction likely to delay exit or the Emergency Services gaining access.</p>
+
+<p><b>8. The end of the tenancy.</b><br>
 All rubbish (and anything you have brought in) should be removed. All bins should be left clean and empty.<br>Plan ahead so that council bins are empty when the house is vacated.</p>
 
 <p><b>Enjoy and Good Luck with your studies.</b></p>
