@@ -19,7 +19,7 @@ This is a hard water area. Build&#8209;up of limescale in the bathroom will occu
 <p><b>3. How can I clear the shower drain hole.</b><br>
 The shower drain can be taken apart to clean properly. <br>
 <a href="https://113theavenues.github.io/signal-2021-08-05-203409.mov">https://113theavenues.github.io/signal-2021-08-05-203409.mov</a><br>
-Please be careful not to allow build&#8209;up of hair/debris in the drainage system or a plumber have to be called in at the tenant's expense.</p>
+Please be careful not to allow build&#8209;up of hair/debris in the drainage system or a plumber will have to be called in at the tenant's expense.</p>
 
 <p><b>4. Please don't use blu&#8209;tack on walls.</b><br>
 It marks the surfaces.</p>
