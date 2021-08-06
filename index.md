@@ -9,7 +9,7 @@ Below we have set out some general Q&As that we hope will help you along the way
 
 <p><b>1. How can I set the heating?</b><br>
 The heating is set by the control at the top of the stairs. You can set the day/night temp as required - instructions can be found inside the flap of the controller.</p>
-
+<p>Leave the heating on low when on holiday to avoid frozen pipes, especially in the winter months.</p>
 <p>Full instructions for the boiler are here:<br>
 <a href="https://113theavenues.github.io/Boiler-instructions.pdf">https://113theavenues.github.io/Boiler-instructions.pdf</a></p>
 
@@ -44,5 +44,8 @@ All rubbish (and anything you have brought in) should be removed. All bins shoul
 
 <p><b>9. Keep the outside area tidy.</b><br>
 Please keep the outside areas clean and tidy, and the grass short.</p>
+
+<p><b>10. Safety</b><br>
+Make sure appliances are turned off when leaving or going out for the day.</p>
 
 <p><b>Enjoy and Good Luck with your studies.</b></p>
