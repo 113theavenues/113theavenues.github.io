@@ -25,7 +25,7 @@ Please be careful not to allow build&#8209;up of hair/debris in the drainage sys
 It marks the surfaces.</p>
 
 <p><b>5. Please do not hang laundry to dry inside your room.</b><br>
-You can hang your washing outside or in the upstairs toilet with the window open.</p>
+You can hang your washing outside or in the upstairs toilet with the window open, (make sure to avoid condensation which will result in mould growth).</p>
 
 <p><b>6. When are the Bins collected?</b><br>
 Your waste and recycling are collected on alternate Fridays.
@@ -41,5 +41,8 @@ These areas must be kept free from obstruction at all times so that in the event
 
 <p><b>8. The end of the tenancy.</b><br>
 All rubbish (and anything you have brought in) should be removed. All bins should be left clean and empty.<br>Plan ahead so that council bins are empty when the house is vacated.</p>
+
+<p><b>9. Keep the outside area tidy.</b><br>
+Please keep the outside areas clean and tidy, and the grass short.</p>
 
 <p><b>Enjoy and Good Luck with your studies.</b></p>
