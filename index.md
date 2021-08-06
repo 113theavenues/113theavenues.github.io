@@ -1,18 +1,3 @@
-<html>
-<head>
-<title>Information and FAQ for 113 The Avenues</title>
-<meta charset="UTF-8">
-<meta name="description" content="rules">
-<meta name="keywords" content="rules">
-<meta name="author" content="113 The Avenues">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="style.css">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"> 
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet"> 
-</head>
-<body>
-
-
 <h1>FAQ for 113 The Avenues</h1>
 <p>We hope you enjoy living here while you study.
 Below we have set out some general Q&As that we hope will help you along the way. If you have any problems you can contact the agent: 01603 673 803.</p>
@@ -29,7 +14,7 @@ The heating is set by the control at the top of the stairs. You can set the day/
 <a href="https://113theavenues.github.io/Boiler-instructions.pdf">https://113theavenues.github.io/Boiler-instructions.pdf</a></p>
 
 <p><b>2. Avoid build-up of limescale.</b><br>
-  This is a hard water area. Build&#8209;up of limescale in the bathroom will occur if the shower, shower door, wall tiles, taps and toilets are not regularly cleaned.<p>
+This is a hard water area. Build&#8209;up of limescale in the bathroom will occur if the shower, shower door, wall tiles, taps and toilets are not regularly cleaned.<p>
 
 <p><b>3. How can I clear the shower drain hole.</b><br>
 The shower drain can be taken apart to clean properly. <br>
@@ -61,7 +46,3 @@ All rubbish (and anything you have brought in) should be removed. All bins shoul
 Please keep the outside areas clean and tidy, and the grass short.</p>
 
 <p><b>Enjoy and Good Luck with your studies.</b></p>
-  
-  
-  </body>
-</html> 
