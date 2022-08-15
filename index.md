@@ -36,16 +36,19 @@ Wheelie bins or bags are collected from the grass area next to the road, (See ho
 Find more information here:
 <a href="https://maps.norwich.gov.uk/mynorwich/index.html">Link to Council website</a></p>
 
-<p><b>7. Keep communal areas free from obstruction.</b><br>
+<p><b>7. Keep mattress covers on the mattress.</b><br>
+Every bed has a new/cleaned (disinfected) waterproof mattress cover fitted. Please make sure that these are kept on the mattress for the whole time, and are left on the mattress when you leave at the end of the year. These cost £30 to replace.</p>
+
+<p><b>8. Keep communal areas free from obstruction.</b><br>
 These areas must be kept free from obstruction at all times so that in the event of a Fire, the common stairwells, hallways etc are free from any obstruction likely to delay exit or the Emergency Services gaining access.</p>
 
-<p><b>8. The end of the tenancy.</b><br>
+<p><b>9. The end of the tenancy.</b><br>
 All rubbish (and anything you have brought in) should be removed. All bins should be left clean and empty.<br>Plan ahead so that council bins are empty when the house is vacated.</p>
 
-<p><b>9. Keep the outside area tidy.</b><br>
+<p><b>10. Keep the outside area tidy.</b><br>
 Please keep the outside areas clean and tidy, and the grass short.</p>
 
-<p><b>10. Safety</b><br>
+<p><b>11. Safety</b><br>
 Make sure appliances are turned off when leaving or going out for the day.</p>
 
 <p><b>Enjoy and Good Luck with your studies.</b></p>
