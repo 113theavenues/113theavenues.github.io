@@ -34,7 +34,7 @@ Wheelie bins or bags are collected from the grass area next to the road, (See ho
 - After your collection, please return your bin to the inside of your property boundary by 9am the next morning.<br>
 <a href="https://www.norwich.gov.uk/info/20001/bins_and_recycling">Council Bin information.</a><br>
 Find more information here:
-<a href="https://maps.norwich.gov.uk/mynorwich/index.html">Link to Council website</a></p>
+<a href="https://maps.norwich.gov.uk/mynorwich/index.html">Council bin collection days</a></p>
 <p>Please use the indoor grey bin as a recycling bin which is then emptied into the larger outside bin for collection.<br>
 <a href="https://113theavenues.github.io/bin.jpg">Recycle bin.</a></p>
 
