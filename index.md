@@ -49,7 +49,7 @@ These areas must be kept free from obstruction at all times so that in the event
 All rubbish (and anything you have brought in) should be removed. All bins should be left clean and empty.<br>Plan ahead so that council bins are empty when the house is vacated.</p>
 
 <p><b>10. Keep the outside area tidy.</b><br>
-Please keep the outside areas clean and tidy, and the grass short.</p>
+Please keep the outside areas clean and tidy, and the grass short. It is easier to keep the grass short than trying to cut after it's overgrown.</p>
 
 <p><b>11. Safety</b><br>
 Make sure appliances are turned off when leaving or going out for the day.</p>
