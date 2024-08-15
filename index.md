@@ -14,7 +14,7 @@ The heating is set by the control at the top of the stairs. You can set the day/
 <a href="https://113theavenues.github.io/Boiler-instructions.pdf">https://113theavenues.github.io/Boiler-instructions.pdf</a></p>
 
 <p><b>2. Avoid build-up of limescale.</b><br>
-This is a hard water area. Build&#8209;up of limescale in the bathroom will occur if the shower, shower door, wall tiles, taps and toilets are not regularly cleaned.<p>
+This is a hard water area. Build&#8209;up of limescale in the bathroom will occur if the shower, shower door, wall tiles, taps and toilets are not regularly cleaned. A squeegee is provided to help remove water after using the shower<p>
 
 <p><b>3. How can I clear the shower drain hole.</b><br>
 The shower drain can be taken apart to clean properly. <br>
