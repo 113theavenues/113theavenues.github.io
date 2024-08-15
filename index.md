@@ -35,11 +35,11 @@ Wheelie bins or bags are collected from the grass area next to the road, (See ho
 <a href="https://113theavenues.github.io/calendar.pdf">Bin-day calendar.</a><br>
 Find more information here:
 <a href="https://maps.norwich.gov.uk/mynorwich/index.html">Link to Council website</a></p>
-<p>Please use the indoor grey bin as a recycling bin which is then emptied into the larger outside bin for collection.</p>
-<a href="https://113theavenues.github.io/bin.jpg">Recycle bin.</a><br>
+<p>Please use the indoor grey bin as a recycling bin which is then emptied into the larger outside bin for collection.<br>
+<a href="https://113theavenues.github.io/bin.jpg">Recycle bin.</a><.p>
 
 <p><b>7. Keep mattress covers on the mattress.</b><br>
-On the day you move in you will find there are two covers on your mattress.<br> The top one is a dust cover which can be removed before using. The second cover is a new/cleaned (disinfected) waterproof mattress cover to help protect the mattress.<br> Please make sure that these waterproof covers are kept on the mattress for the whole time you live here, and are left on the mattress when you leave at the end of the year. These cost £40-50 to replace.</p>
+On the day you move in you will find there are two covers on your mattress.<br> The top one is a dust cover which can be removed before using. The second cover is a new/cleaned (disinfected) waterproof mattress cover to help protect the mattress.<br> Please make sure that these waterproof covers are kept on the mattress for the whole time you live here, and are left on the mattress when you leave at the end of the year. These cost £40-50 to replace.<br>
 <a href="https://113theavenues.github.io/mattress.jpg">Mattress cover</a></p>
 
 <p><b>8. Keep communal areas free from obstruction.</b><br>
